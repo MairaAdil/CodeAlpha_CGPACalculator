@@ -464,9 +464,8 @@ University of Central Punjab
 
 ### Connect
 
-* **LinkedIn:** `[(https://www.linkedin.com/in/mairaadil)]`
-* **GitHub:** `[(https://github.com/MairaAdil)]`
-
+* **LinkedIn:** [(https://www.linkedin.com/in/mairaadil)]
+* **GitHub:** [(https://github.com/MairaAdil)]
 ---
 
 ## 🏆 Internship Project
